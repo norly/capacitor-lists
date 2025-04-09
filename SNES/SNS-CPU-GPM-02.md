@@ -5,6 +5,10 @@ This is an NTSC mainboard.
 
 The sound chips are soldered straight to the mainboard.
 
+C59 *must* be changed to a bipolar type, since a polarised
+capacitor at this position is an error in the schematic that
+was revised in later revisions of the SNES.
+
 
 Parts list
 -----------
