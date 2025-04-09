@@ -41,6 +41,8 @@ https://github.com/Altomare/snes-capacitors
 
 https://wiki.console5.com/wiki/SNES#Capacitor_Lists
 
+https://blog.worldofjani.com/?p=6800
+
 
 
 Sony PlayStation 1
