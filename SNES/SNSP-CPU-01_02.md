@@ -12,8 +12,9 @@ C59 *must* be changed to a bipolar type, since a polarised
 capacitor at this position is an error in the schematic that
 was revised in later revisions of the SNES.
 
-THT capacitor C67 has three vias, allowing to choose either
-a 5mm or a 7.5mm pitch capacitor.
+On SNSP-CPU-02, the THT capacitor C67 has three vias,
+allowing to choose either a 5mm or a 7.5mm pitch capacitor.
+On SNSP-CPU-01, only 7.5mm pitch is available.
 
 
 Parts list
